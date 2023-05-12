@@ -1,0 +1,8 @@
+div{
+    border: 3px;
+    
+}
+h1,h2,h3{
+    border: 3px solid blue;
+    border-collapse: collapse;
+}
